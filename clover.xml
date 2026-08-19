@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1787155489">
-  <project timestamp="1787155489">
+<coverage generated="1787155788">
+  <project timestamp="1787155788">
     <file name="/home/runner/work/is-array-rule-guardian/is-array-rule-guardian/src/IsArrayRuleGuardian.php">
       <class name="Aegisora\RuleGuardians\IsArrayRule\IsArrayRuleGuardian" namespace="global">
         <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
