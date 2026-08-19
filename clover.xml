@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1648587867">
-  <project timestamp="1648587867">
-    <metrics files="0" loc="0" ncloc="0" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+<coverage generated="1787155788">
+  <project timestamp="1787155788">
+    <file name="/home/runner/work/is-array-rule-guardian/is-array-rule-guardian/src/IsArrayRuleGuardian.php">
+      <class name="Aegisora\RuleGuardians\IsArrayRule\IsArrayRuleGuardian" namespace="global">
+        <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
+      </class>
+      <line num="15" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="22"/>
+      <line num="18" type="stmt" count="22"/>
+      <line num="27" type="method" name="check" visibility="public" complexity="1" crap="1" count="22"/>
+      <line num="31" type="stmt" count="22"/>
+      <metrics loc="34" ncloc="28" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
+    </file>
+    <metrics files="1" loc="34" ncloc="28" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
   </project>
 </coverage>
