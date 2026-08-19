@@ -1,8 +1,20 @@
 {
     "name": "aegisora/is-array-rule-guardian",
-    "description": "<REPOSITORY_DESCRIPTION>",
+    "description": "Is Array Rule Guardian provides a simple shortcut for array validation using aegisora/guardian and aegisora/is-array-rule",
     "type": "library",
-    "keywords": ["php", "aegisora", "aegisora-ecosystem"],
+    "keywords": [
+        "php",
+        "aegisora",
+        "aegisora-ecosystem",
+        "validation",
+        "guardian",
+        "is-array",
+        "is-array-check",
+        "is-array-rule",
+        "array",
+        "rule",
+        "rule-guardian"
+    ],
     "homepage": "https://github.com/Aegisora/is-array-rule-guardian",
     "support": {
         "issues": "https://github.com/Aegisora/is-array-rule-guardian/issues",
